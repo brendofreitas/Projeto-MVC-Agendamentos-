@@ -5,7 +5,6 @@ C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\S
 C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
 C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
@@ -39,3 +38,4 @@ C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\R
 C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
 C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
 C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\Users\brendo\source\webcore\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
